@@ -1,4 +1,4 @@
-# midtermproject
+# Final Project
 <html>
 <head>school</head>
 <p> I go to Mizzou </b></p>
